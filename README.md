@@ -83,11 +83,11 @@ Então devo ser autenticado com sucesso<br>
 
 ## Exemplo de feature: Produto
 
-Funcionalidade: Produto
-Cenário: Validar listagem de produtos
-Dado que acesso a área de produtos
-Quando visualizo a lista de produtos
-Então todos os produtos devem estar disponíveis
+Funcionalidade: Produto<br>
+Cenário: Validar listagem de produtos<br>
+Dado que acesso a área de produtos<br>
+Quando visualizo a lista de produtos<br>
+Então todos os produtos devem estar disponíveis<br>
 
 ---
 
